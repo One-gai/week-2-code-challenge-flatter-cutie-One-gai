@@ -14,7 +14,7 @@ html, body {
   padding: 0.5em;
 }
 
-#character-bar {
+#character-bar{
   height: 15vh;
   background: rgb(49, 109, 179);
   display: flex;
@@ -51,7 +51,7 @@ input[type="submit"], button {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-input[type="text"] {
+input[type="number"] {
   font-size: 3vh;
 }
 
